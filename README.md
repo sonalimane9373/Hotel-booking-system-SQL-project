@@ -45,7 +45,12 @@ This project also includes  analytical SQL queries to understand revenue, occupa
 
 
 
-<img width="317" height="227" alt="image" src="https://github.com/user-attachments/assets/b5e0edff-1266-4d50-b888-2fc4ee8782d5" 
+
+
+<img width="282" height="192" alt="image" src="https://github.com/user-attachments/assets/55400915-99ed-4498-a147-a5ae31cc2845" />
+
+
+
 
   
 
