@@ -39,7 +39,48 @@ Create tTable rooms
 
 
 
-Create Table Bookings
+Create Table bookings
+
+
+
+
+
+Create Table Payments
+
+
+
+
+5:Sample Data (Insert queries)
+inset into customers values:
+
+
+
+<img width="1047" height="106" alt="image" src="https://github.com/user-attachments/assets/5ae29b0c-4985-4556-860e-db2095274b71" />
+
+
+
+
+
+
+<img width="257" height="15" alt="image" src="https://github.com/user-attachments/assets/9ced66bd-4821-410a-907f-b2b02bd1094f" />
+
+
+
+
+
+
+<img width="842" height="140" alt="image" src="https://github.com/user-attachments/assets/5008258c-29fd-4247-9728-920a8d17910c" />
+
+
+
+
+
+
+insert into rooms values:
+
+
+
+
 
 
 
