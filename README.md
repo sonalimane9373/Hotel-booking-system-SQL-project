@@ -43,12 +43,20 @@ This project also includes  analytical SQL queries to understand revenue, occupa
 
 
 
-<img width="317" height="227" alt="image" src="https://github.com/user-attachments/assets/b5e0edff-1266-4d50-b888-2fc4ee8782d5" />
+
+
+<img width="317" height="227" alt="image" src="https://github.com/user-attachments/assets/b5e0edff-1266-4d50-b888-2fc4ee8782d5" 
+
+  
 
 
 
 
-**Create tTable rooms**
+**Create Table rooms**
+
+
+
+
 
 
 
@@ -58,6 +66,8 @@ This project also includes  analytical SQL queries to understand revenue, occupa
 
 
 **Create Table hotelbookings**
+
+
 
 
 
@@ -73,11 +83,21 @@ This project also includes  analytical SQL queries to understand revenue, occupa
 
 
 
+
+
 <img width="357" height="160" alt="image" src="https://github.com/user-attachments/assets/b6768d8e-c0cc-4939-bd17-985d8604eaf2" />
 
 
 
+
+
+
+
 **5:Sample Data (Insert queries)**
+
+
+
+
 
 
 **inset into customers values:**
@@ -108,7 +128,12 @@ This project also includes  analytical SQL queries to understand revenue, occupa
 
 
 
+
+
+
 **insert into rooms values:**
+
+
 
 
 
@@ -121,7 +146,15 @@ This project also includes  analytical SQL queries to understand revenue, occupa
 
 
 
+
+
+
 <img width="436" height="136" alt="image" src="https://github.com/user-attachments/assets/76abf2e3-4663-4e51-a545-afef89da42a4" />
+
+
+
+
+
 
 
 
@@ -131,6 +164,13 @@ Insert into hotelbookings values:
 
 
 
+
+
+
+
+
 Insert into payments values:
+
+
 
 
