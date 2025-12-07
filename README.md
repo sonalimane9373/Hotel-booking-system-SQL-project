@@ -41,12 +41,14 @@ This project also includes  analytical SQL queries to understand revenue, occupa
 **Create table customer**
 
 
+
+
 <img width="317" height="227" alt="image" src="https://github.com/user-attachments/assets/b5e0edff-1266-4d50-b888-2fc4ee8782d5" />
 
 
 
 
-Create tTable rooms
+**Create tTable rooms**
 
 
 
@@ -54,7 +56,14 @@ Create tTable rooms
 
 
 
-**Create Table bookings**
+
+**Create Table hotelbookings**
+
+
+
+
+<img width="343" height="207" alt="image" src="https://github.com/user-attachments/assets/1777aac8-516f-431c-8906-8d94476b5398" />
+
 
 
 
@@ -64,14 +73,21 @@ Create tTable rooms
 
 
 
+<img width="357" height="160" alt="image" src="https://github.com/user-attachments/assets/b6768d8e-c0cc-4939-bd17-985d8604eaf2" />
+
+
 
 **5:Sample Data (Insert queries)**
+
 
 **inset into customers values:**
 
 
 
+
+
 <img width="1047" height="106" alt="image" src="https://github.com/user-attachments/assets/5ae29b0c-4985-4556-860e-db2095274b71" />
+
 
 
 
@@ -95,7 +111,14 @@ Create tTable rooms
 **insert into rooms values:**
 
 
+
+
+
 <img width="600" height="106" alt="image" src="https://github.com/user-attachments/assets/8cbcdca4-5fae-4d1f-a334-c249081be9ab" />
+
+
+
+
 
 
 <img width="436" height="136" alt="image" src="https://github.com/user-attachments/assets/76abf2e3-4663-4e51-a545-afef89da42a4" />
@@ -103,5 +126,11 @@ Create tTable rooms
 
 
 
+Insert into hotelbookings values:
+
+
+
+
+Insert into payments values:
 
 
