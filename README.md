@@ -95,6 +95,11 @@ Create tTable rooms
 **insert into rooms values:**
 
 
+<img width="600" height="106" alt="image" src="https://github.com/user-attachments/assets/8cbcdca4-5fae-4d1f-a334-c249081be9ab" />
+
+
+<img width="436" height="136" alt="image" src="https://github.com/user-attachments/assets/76abf2e3-4663-4e51-a545-afef89da42a4" />
+
 
 
 
