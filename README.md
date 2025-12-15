@@ -164,7 +164,7 @@ This project also includes  analytical SQL queries to understand revenue, occupa
 
 
 
-Insert into hotelbookings values:
+**Insert into hotelbookings values:**
 
 
 
@@ -195,7 +195,7 @@ Insert into hotelbookings values:
 
 
 
-Insert into payments values:
+**Insert into payments values:**
 
 
 
@@ -219,3 +219,18 @@ Insert into payments values:
 
 
 <img width="855" height="113" alt="image" src="https://github.com/user-attachments/assets/fd6eb1bd-b1e4-4e2e-9449-1b406f6ed912" />
+
+
+
+
+
+
+**Conclusion:**
+
+
+
+
+
+
+
+The Hotel booking system SQL project shows how SQL can efficiently manage hotel data such as rooms, customers, and bookings, ensuring accurancy,easy access,and better database management.
