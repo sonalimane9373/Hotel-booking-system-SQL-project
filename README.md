@@ -173,9 +173,49 @@ Insert into hotelbookings values:
 
 
 
+<img width="773" height="52" alt="image" src="https://github.com/user-attachments/assets/fe49dd1a-3ec5-4b13-98b4-a24aa5070c03" />
+
+
+
+
+
+
+
+
+
+
+<img width="862" height="100" alt="image" src="https://github.com/user-attachments/assets/6227e05b-7a62-4b43-a3d4-55a9f86f127c" />
+
+
+
+
+
+
+
+
+
 
 Insert into payments values:
 
 
 
 
+
+
+
+
+
+
+<img width="562" height="26" alt="image" src="https://github.com/user-attachments/assets/2510d709-5a2a-4fd4-bd3d-b89a8de17a75" />
+
+
+
+
+
+
+
+
+
+
+
+<img width="855" height="113" alt="image" src="https://github.com/user-attachments/assets/fd6eb1bd-b1e4-4e2e-9449-1b406f6ed912" />
